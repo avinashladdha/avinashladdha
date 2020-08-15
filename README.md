@@ -1,14 +1,13 @@
 ### Hi there, I'm Avinash [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://avinashladdha.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]()
+[![Website](https://img.shields.io/website?label=AvinashLaddha&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://avinashladdha.github.io)
 
 ## I'm an Analyst, Independent Researcher, and Artist!
 
 - 🔭 I’m currently learning Data Structures and Algorithms in depth.
 - 🌱 I’m currently reading books about Indian history and Data Visualisation.
 - 👯 I’m looking to connect with independent researched for collaboration.
-- 🥅 2020 Goals: REad widely and create more.
+- 🥅 2020 Goals: Read widely and create more.
 - ⚡ Fun fact: I will pcublish my newsletter soon.
 
 
