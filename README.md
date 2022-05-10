@@ -2,12 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=AvinashLaddha&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://avinashladdha.github.io)
 
-## I'm an Analyst, Independent Researcher, and Artist!
+## I'm a Data Scientist, Independent Researcher, and Artist!
 
 - 🔭 I’m currently learning Data Structures and Algorithms in depth.
 - 🌱 I’m currently reading books about Indian history and Data Visualisation.
 - 👯 I’m looking to connect with independent researchers for collaboration.
-- 🥅 2020 Goals: Read widely and create more.
+- 🥅 2022 Goals: Read widely and create more.
 - ⚡ Fun fact: I will publish my newsletter soon.
 
 
@@ -40,6 +40,7 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Papers on 'Papers with Code!](https://www.linkedin.com/posts/avinashladdha_papers-with-code-adop-approximate-differentiable-activity-6886177441426108416-PsSj?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Crime in India.](https://www.linkedin.com/posts/avinashladdha_crime-in-india-activity-6662678356263337984-2WkC)
 - [Juvenile Crimes](https://www.linkedin.com/pulse/misguided-steps-unfulfilled-wishes-avinash-laddha/)
 
