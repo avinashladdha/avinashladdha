@@ -8,7 +8,7 @@
 - 🌱 I’m currently reading books about Indian history and Data Visualisation.
 - 👯 I’m looking to connect with independent researchers for collaboration.
 - 🥅 2022 Goals: Read widely and create more.
-- ⚡ Fun fact: I will publish my newsletter soon.
+
 
 
 ### Connect with me:
