@@ -4,10 +4,10 @@
 
 ## I'm a Data Scientist, Independent Researcher, and Artist!
 
-- 🔭 I’m currently learning Data Structures and Algorithms in depth.
-- 🌱 I’m currently reading books about Indian history and Data Visualisation.
+- 🔭 I’m currently learning investing and LLMs.
+- 🌱 I’m currently reading books about Indian history, World History, Data science, and Investing.
 - 👯 I’m looking to connect with independent researchers for collaboration.
-- 🥅 2022 Goals: Read widely and create more.
+- 🥅 2023 Goals: Developing NLP skills and reading history.
 
 
 
